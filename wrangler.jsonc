@@ -1,0 +1,13 @@
+{
+  "name": "marketplace-mapping-desk",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-07-15",
+
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "marketplace-mapping-desk-d1",
+      "database_id": "00000000-0000-0000-0000-000000000000"
+    }
+  ]
+}
